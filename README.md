@@ -16,3 +16,4 @@ files description:
 - geochem_sql2.ipynb - statistics calculations
 - Be_in_DDH004.sql - the mysteries of beryllium in borehole 4  (you can use free SQLiteStudio or other to run sql query)
 - Elements_below_LDO.sql - query to view data below LOD (there are 6 options for laboratory tests, with the different threshold of sensitivity for each element)
+![model5](https://user-images.githubusercontent.com/1739498/174014993-75a54b7b-009c-462e-80cd-0a2a4e6404ac.png)
