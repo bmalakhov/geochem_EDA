@@ -2,7 +2,7 @@
 
 This is exploratory data analysis notebook based on Scott Halley's porphyry geochemistry dataset:o
 <ul>  
-<li>statistical analysis for possible outliers and  </li>
+<li>statistical analysis for possible outliers and non-normal distributions </li>
 <li>data conversion to a database in sqllite format</li>
 <li>additional statistical analysis by drill holes</li>
 <li>data markup below the LOD for the "4 acid digestion method" and identified statistical errors</li>
