@@ -21,4 +21,4 @@ Files descriptions:
 <li> Elements_below_LDO.sql - query to view data below LOD (there are 6 options for laboratory tests, with the different threshold of sensitivity for each element)</li>
 </ul>
 
-![model5](https://user-images.githubusercontent.com/1739498/174016031-3cd7b91b-ea4e-41cc-b37d-c6952880c403.png)
+![model6](https://user-images.githubusercontent.com/1739498/175022473-3669dab6-f690-45f7-8533-a2cd7bddf84f.png)
