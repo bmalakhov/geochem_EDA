@@ -18,7 +18,7 @@ Files descriptions:
 <li> geo3.db - database in sqllite3 format</li>
 <li> geochem_sql2.ipynb - statistical calculations</li>
 <li> how_to_get_clear_data.sql - final sql query to retrieve labeled data </li>
-<li> how_to_get_clear_data.ipynb - example to use labeled data in notebook </li>
+<li> how_to_get_clear_data.ipynb - example how to use labeled data in the notebook </li>
 <li> Be_in_DDH004.sql - the mysteries of beryllium in borehole 4  (you can use free SQLiteStudio or other to run sql query)</li>
 <li> Elements_below_LDO.sql - query to view data below LOD (there are 6 options for laboratory tests and one for current dataset LOD, with the different threshold of sensitivity for each element)</li>
 </ul>
